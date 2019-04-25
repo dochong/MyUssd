@@ -1,0 +1,38 @@
+{
+  "ussdCode": "*888*01#",
+  "screens": [
+    {
+      "name": "SendMoney",
+      "input": "1",
+      "screens": [
+        {
+          "name": "ToMobileNo",
+          "input": "1",
+          "screens": [
+            {
+              "name": "ReceiverNo",
+              "input": "0719169800",
+              "screens": [
+                {
+                  "name": "Amount",
+                  "input": "100",
+                  "screens": [
+                    {
+                      "name": "PIN",
+                      "input": "1920",
+                      "screens": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AirtimeAndPackages",
+      "input": "2"
+    }
+  ]
+}

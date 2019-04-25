@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Ussd</string>
+    <string name="accessibility_service_description">USSD Service</string>
+    <string name="ussd_code">Ussd Code</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="configuration_settings">Configuration Settings</string>
+    <string name="config_settings">ConfigurationSettings</string>
+</resources>
